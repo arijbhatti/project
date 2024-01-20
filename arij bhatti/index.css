@@ -1,0 +1,63 @@
+body {
+    background-color: gray;
+}
+
+header {
+    padding: 0px;
+    width: 100%;
+    display: flex;
+}
+
+.navbar {
+    background-color: black;
+    height: 70px;
+    width: 100%;
+}
+
+.navbar a {
+    margin: 25px;
+    color: aliceblue;
+    text-decoration: none;
+    float: right;
+}
+
+.navbar a:hover {
+    color: yellow;
+}
+
+.main {
+    width: 100%;
+    height: 600px;
+    background-color: ble;
+    margin: 5px
+}
+
+.image {
+    width: 48%;
+    height: 450px;
+    background-color: yllow;
+    float: left;
+    margin: 10px;
+}
+
+p {
+    text-align: center;
+    color: aliceblue;
+    font-size: xx-large;
+}
+
+footer {
+    background-color: black;
+    width: 100%;
+    height: 90px;
+    color: aliceblue;
+    text-align: center;
+}
+
+footer .a {
+    margin: 25px;
+}
+
+p {
+    margin-top: -15px;
+}
